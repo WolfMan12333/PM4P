@@ -1,0 +1,14 @@
+D:\PM4P\PM4P\obj\Debug\PM4P.Form1.resources
+D:\PM4P\PM4P\obj\Debug\PM4P.Properties.Resources.resources
+D:\PM4P\PM4P\obj\Debug\PM4P.csproj.GenerateResource.Cache
+D:\PM4P\PM4P\bin\Debug\PM4P.exe.config
+D:\PM4P\PM4P\bin\Debug\PM4P.exe
+D:\PM4P\PM4P\bin\Debug\PM4P.pdb
+D:\PM4P\PM4P\obj\Debug\PM4P.exe
+D:\PM4P\PM4P\obj\Debug\PM4P.pdb
+D:\PM4P\PM4P\obj\Debug\PM4P.csprojResolveAssemblyReference.cache
+D:\PM4P\PM4P\bin\Debug\PM4P.exe.manifest
+D:\PM4P\PM4P\bin\Debug\PM4P.application
+D:\PM4P\PM4P\obj\Debug\PM4P.TrustInfo.xml
+D:\PM4P\PM4P\obj\Debug\PM4P.exe.manifest
+D:\PM4P\PM4P\obj\Debug\PM4P.application
