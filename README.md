@@ -1,6 +1,6 @@
 # PM4P
 Pass Maker for Pentesters 
-<<<<<<< HEAD
+Describe of PM4P - Pass Maker for Pentesters
 =======
 Program is for Pentesters, it's generate all possible passwords from input.
 It's for Windows and it's written in C#.
