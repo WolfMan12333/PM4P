@@ -12,3 +12,7 @@ D:\PM4P\PM4P\bin\Debug\PM4P.application
 D:\PM4P\PM4P\obj\Debug\PM4P.TrustInfo.xml
 D:\PM4P\PM4P\obj\Debug\PM4P.exe.manifest
 D:\PM4P\PM4P\obj\Debug\PM4P.application
+D:\PM4P\PM4P\bin\Debug\HtmlAgilityPack.dll
+D:\PM4P\PM4P\bin\Debug\HtmlAgilityPack.pdb
+D:\PM4P\PM4P\bin\Debug\HtmlAgilityPack.xml
+D:\PM4P\PM4P\obj\Debug\PM4P.Form2.resources

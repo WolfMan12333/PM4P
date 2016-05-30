@@ -8,22 +8,139 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PM4P.Properties
-{
-
-
+namespace PM4P.Properties {
+    
+    
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase
-    {
-
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "12.0.0.0")]
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
-
-        public static Settings Default
-        {
-            get
-            {
+        
+        public static Settings Default {
+            get {
                 return defaultInstance;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color BackgroundColor {
+            get {
+                return ((global::System.Drawing.Color)(this["BackgroundColor"]));
+            }
+            set {
+                this["BackgroundColor"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color ColorCharacters {
+            get {
+                return ((global::System.Drawing.Color)(this["ColorCharacters"]));
+            }
+            set {
+                this["ColorCharacters"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color BackgroundOneLimit {
+            get {
+                return ((global::System.Drawing.Color)(this["BackgroundOneLimit"]));
+            }
+            set {
+                this["BackgroundOneLimit"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color BackgroundTwoLimits {
+            get {
+                return ((global::System.Drawing.Color)(this["BackgroundTwoLimits"]));
+            }
+            set {
+                this["BackgroundTwoLimits"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color BackgroundRunButton {
+            get {
+                return ((global::System.Drawing.Color)(this["BackgroundRunButton"]));
+            }
+            set {
+                this["BackgroundRunButton"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color ColorCharactersOneLimit {
+            get {
+                return ((global::System.Drawing.Color)(this["ColorCharactersOneLimit"]));
+            }
+            set {
+                this["ColorCharactersOneLimit"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color ColorCharactersTwoLimits {
+            get {
+                return ((global::System.Drawing.Color)(this["ColorCharactersTwoLimits"]));
+            }
+            set {
+                this["ColorCharactersTwoLimits"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color ColorDataWindow {
+            get {
+                return ((global::System.Drawing.Color)(this["ColorDataWindow"]));
+            }
+            set {
+                this["ColorDataWindow"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color ColorNameOneLimit {
+            get {
+                return ((global::System.Drawing.Color)(this["ColorNameOneLimit"]));
+            }
+            set {
+                this["ColorNameOneLimit"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color ColorNameTwoLimits {
+            get {
+                return ((global::System.Drawing.Color)(this["ColorNameTwoLimits"]));
+            }
+            set {
+                this["ColorNameTwoLimits"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Drawing.Color ColorTextRunButton {
+            get {
+                return ((global::System.Drawing.Color)(this["ColorTextRunButton"]));
+            }
+            set {
+                this["ColorTextRunButton"] = value;
             }
         }
     }

@@ -43,14 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PM4P.exe" size="40448">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HtmlAgilityPack.dll" size="134656">
+      <assemblyIdentity name="HtmlAgilityPack" version="1.4.9.0" publicKeyToken="BD319B19EAF3B43A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>XH0MTgrjsVol/leRhjvTnBR0ve6f+u6XugfywnkOGxM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PM4P.exe" size="78336">
       <assemblyIdentity name="PM4P" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>G3Zg5r3tBbN0FuBK9qsbmdndxjcANp4xJczwpStKOqo=</dsig:DigestValue>
+        <dsig:DigestValue>7fpuvEWN2CrrJ7n5I/MWgKx2FKG9zV5STi+3Gki80Yo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -63,13 +75,13 @@
       <dsig:DigestValue>u+s0jOxU7rTHvUnmZA2ZX6F2GsC/NMWCC02puoDDMlM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="PM4P.exe.config" size="256">
+  <file name="PM4P.exe.config" size="2189">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>nG69uCGmUL+QKSAQVAMROkctYtYgUxEPohSFmhtfSN0=</dsig:DigestValue>
+      <dsig:DigestValue>uiGdAnfkIulOeiyIp2hbiv5k2GnbVOuLFe8IOA0rJVg=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
